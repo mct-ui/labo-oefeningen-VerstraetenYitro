@@ -39,18 +39,15 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: white;
+  background-color: #0a257d;
+  background-image: linear-gradient(to bottom right, #0a257d, #061649);
+  background-attachment: fixed;
 }
 
 *,
 *:before,
 *:after {
   box-sizing: inherit;
-}
-
-body {
-  background-color: #0a257d;
-  background-image: linear-gradient(to bottom right, #0a257d, #061649);
-  background-attachment: fixed;
 }
 
 /*
